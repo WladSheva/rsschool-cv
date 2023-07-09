@@ -1,7 +1,7 @@
 [**rsschool-cv**](https://WladSheva.github.io/rsschool-cv/ "Reference on rsschool-cv")
 
 # Uladzimir Shauchenka
-
+![Avatar](/img/avatar.png "Avatar")
 ### Software Engineer
 
 
