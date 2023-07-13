@@ -1,5 +1,5 @@
 # Uladzimir Shauchenka
-![Avatar](/img/avatar.png "Avatar")
+![Avatar](./img/avatar.png "Avatar")
 ### Software Engineer
 
 
@@ -42,7 +42,7 @@ for (let i = 1; i < 22; i++) {
 ```
 ## Experience
 I work for an IT company and have over 25 years of programming experience.
- 
+
 ## Education
 Belarusian State University of Informatics and Radioelectronics (*Faculty of Computer Systems and Networks, Systems Engineer*)
 
@@ -50,7 +50,7 @@ Belarusian State University of Informatics and Radioelectronics (*Faculty of Com
 English course at the House of Officers
 
 ## Projects
-RS Schools Course «JavaScript/Front-end. Stage 0» (*in progress*)
+[Curriculum Vitae](./ "RS Schools Course «JavaScript/Front-end. Stage 0»") (*in progress*)
 
 ## Languages
 * **Russian**     - Native
