@@ -41,14 +41,18 @@ for (let i = 1; i < 22; i++) {
 
 ```
 ## Experience
-I work for an IT company and have over 25 years of programming experience. 
+I work for an IT company and have over 25 years of programming experience.
+ 
 ## Education
-* **University:** Belarusian State University of Informatics and Radioelectronics
-            (*Faculty of Computer Systems and Networks, Systems Engineer*)
-* **Courses:**
+Belarusian State University of Informatics and Radioelectronics (*Faculty of Computer Systems and Networks, Systems Engineer*)
+
+## Courses
+English course at the House of Officers
+
+## Projects
 RS Schools Course «JavaScript/Front-end. Stage 0» (*in progress*)
 
 ## Languages
 * **Russian**     - Native
 * **Belorussian** - Native
-* **English**     - A2 (*I completed English courses at the House of Officers and now I am improving my language skills at courses at my company*)
+* **English**     - A2 (*I am improving my language skills at courses at my company now*)
