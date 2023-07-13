@@ -26,7 +26,7 @@ I have good programming skills, but there is no limit to perfection. I work the 
 **Goal:** *find iteration, when the function ***multiply*** returns a result greater than 21 (based on poker)* 
 
 ```
-function multiply(a, b){
+function multiply(a, b) {
   return (a * b);
 }
 
