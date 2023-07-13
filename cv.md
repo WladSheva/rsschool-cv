@@ -9,6 +9,7 @@
 * **E-mail:**   *shevawl@gmail.com*
 * [**GitHub**](https://github.com/WladSheva "WladSheva")
 * [**Discord**](https://discordapp.com/users/737264316499099701 "@wladbest")
+
 ## About Me
 I have good programming skills, but there is no limit to perfection. I work the Software Engineer, so I need new knowledge for development.
 
@@ -20,6 +21,7 @@ I have good programming skills, but there is no limit to perfection. I work the 
 * **JavaScript**
 * **TFS**
 * **Tortoise SVN**
+
 ## Code Example
 **Goal:** *find iteration, when the function ***multiply*** returns a result greater than 21 (based on poker)* 
 
@@ -45,6 +47,7 @@ I work for an IT company and have over 25 years of programming experience.
             (*Faculty of Computer Systems and Networks, Systems Engineer*)
 * **Courses:**
 RS Schools Course «JavaScript/Front-end. Stage 0» (*in progress*)
+
 ## Languages
 * **Russian**     - Native
 * **Belorussian** - Native
