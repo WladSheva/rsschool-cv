@@ -40,11 +40,12 @@ for (let i = 1; i < 22; i++) {
 }
 
 ```
-## Experience
-I work for an IT company and have over 25 years of programming experience.
 
 ## Education
 Belarusian State University of Informatics and Radioelectronics (*Faculty of Computer Systems and Networks, Systems Engineer*)
+
+## Experience
+I work for an IT company and have over 25 years of programming experience.
 
 ## Courses
 English course at the House of Officers
