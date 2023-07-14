@@ -1,5 +1,5 @@
 # Uladzimir Shauchenka
-![Avatar](/img/avatar.png "Avatar")
+![Avatar](./img/avatar.png "Avatar")
 ### Software Engineer
 
 
@@ -9,6 +9,7 @@
 * **E-mail:**   *shevawl@gmail.com*
 * [**GitHub**](https://github.com/WladSheva "WladSheva")
 * [**Discord**](https://discordapp.com/users/737264316499099701 "@wladbest")
+
 ## About Me
 I have good programming skills, but there is no limit to perfection. I work the Software Engineer, so I need new knowledge for development.
 
@@ -20,11 +21,12 @@ I have good programming skills, but there is no limit to perfection. I work the 
 * **JavaScript**
 * **TFS**
 * **Tortoise SVN**
+
 ## Code Example
 **Goal:** *find iteration, when the function ***multiply*** returns a result greater than 21 (based on poker)* 
 
 ```
-function multiply(a, b){
+function multiply(a, b) {
   return (a * b);
 }
 
@@ -38,14 +40,20 @@ for (let i = 1; i < 22; i++) {
 }
 
 ```
-## Experience
-I work for an IT company and have over 25 years of programming experience. 
+
 ## Education
-* **University:** Belarusian State University of Informatics and Radioelectronics
-            (*Faculty of Computer Systems and Networks, Systems Engineer*)
-* **Courses:**
-RS Schools Course «JavaScript/Front-end. Stage 0» (*in progress*)
+Belarusian State University of Informatics and Radioelectronics (*Faculty of Computer Systems and Networks, Systems Engineer*)
+
+## Experience
+I work for an IT company and have over 25 years of programming experience.
+
+## Courses
+English course at the House of Officers
+
+## Projects
+[Curriculum Vitae](./ "RS Schools Course «JavaScript/Front-end. Stage 0»") (*in progress*)
+
 ## Languages
 * **Russian**     - Native
 * **Belorussian** - Native
-* **English**     - A2 (*I completed English courses at the House of Officers and now I am improving my language skills at courses at my company*)
+* **English**     - A2 (*I am improving my language skills at courses at my company now*)
